@@ -64,5 +64,5 @@ int main() {
 	bubbleSortArray();  // Memanggil procedur  bubbleSortArray()
 	display();		// Memanggil procedur display()
 
-	return 0;
+	return 0;
 }
